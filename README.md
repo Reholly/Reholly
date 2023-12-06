@@ -3,7 +3,7 @@
 ### My languages and my leetcode:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reholly&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-![]([https://leetcard.jacoblin.cool/leetcode?site=cn](https://leetcard.jacoblin.cool/Reholly?theme=dark&font=Sintony))
+![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Sintony)
 
 
 <!--
