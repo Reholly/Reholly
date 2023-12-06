@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reholly&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 ###
-![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=Sintony)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Reholly?theme=dark&font=Sintony)
 
 
 <!--
