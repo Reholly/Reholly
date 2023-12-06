@@ -2,8 +2,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Reholly&theme=dark&border_radius=5&card_width=900)](https://git.io/streak-stats)
 ### My languages and my leetcode:
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reholly&theme=dark)](https://github.com/anuraghazra/github-readme-stats) ![]([https://leetcard.jacoblin.cool/leetcode?site=cn](https://leetcard.jacoblin.cool/Reholly?theme=dark&font=Sintony))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reholly&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+![]([https://leetcard.jacoblin.cool/leetcode?site=cn](https://leetcard.jacoblin.cool/Reholly?theme=dark&font=Sintony))
 
 
 <!--
