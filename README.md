@@ -1,8 +1,10 @@
 ### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Reholly)](https://git.io/streak-stats)
+### My languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reholly)](https://github.com/anuraghazra/github-readme-stats)
 
+### My leetcode
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Reholly)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
