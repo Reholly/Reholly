@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Reholly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Reholly&theme=dark&border_radius=5&card_width=900)](https://git.io/streak-stats)
 ### My languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reholly)](https://github.com/anuraghazra/github-readme-stats)
