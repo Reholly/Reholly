@@ -3,8 +3,7 @@
 ### My languages and my leetcode:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reholly&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Reholly&theme=dark&width=500&height=600)](https://github.com/KnlnKS/leetcode-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reholly&theme=dark)](https://github.com/anuraghazra/github-readme-stats) ![](https://leetcard.jacoblin.cool/leetcode?site=cn)
 
 
 <!--
