@@ -5,8 +5,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reholly&theme=dark&width=900&height=500)](https://github.com/anuraghazra/github-readme-stats) 
 ###
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Reholly?theme=dark&font=Sintony)
-### Public repo stats!
-[[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Reholly/langs)](https://githubtrends.io)](https://api.githubtrends.io/user/svg/Reholly/langs?time_range=one_year&theme=dark)
 
 <!--
 **Reholly/Reholly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
