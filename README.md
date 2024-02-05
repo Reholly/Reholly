@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://giphy.com/gifs/purple-vaporwave-universe-gIODGWDBuG5AWlUExJ" width="600" height="300"/>
+</div>
 ### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=Reholly&theme=dark&border_radius=5&card_width=900)](https://git.io/streak-stats)
 ### My languages and my leetcode
