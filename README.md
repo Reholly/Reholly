@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajUzOXpjZTlmc29kcmc3MDI1ZTk5ZHhiazNnYmlhY3c2MnNndGRveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gIODGWDBuG5AWlUExJ/giphy-downsized-large.gif" width="600" height="300"/>
-</div>
+
 ### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=Reholly&theme=dark&border_radius=5&card_width=900)](https://git.io/streak-stats)
 ### My languages and my leetcode
