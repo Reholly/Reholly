@@ -11,4 +11,4 @@
 ###
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Reholly?theme=dark&font=Sintony)
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reholly&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
